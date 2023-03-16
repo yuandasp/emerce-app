@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "fullName": "anhar",
+      "username": "amir",
+      "email": "fathoni",
+      "id": 4
+    },
+    {
+      "fullName": "siti",
+      "username": "yuanda",
+      "email": "putri",
+      "id": 5
+    },
+    {
+      "fullName": "orang1",
+      "username": "orang1",
+      "email": "orang1",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "fullName": "siti",
+      "username": "yuanda",
+      "email": "putri",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "fullName": "aaa bbb",
+      "username": "aaa",
+      "email": "aaa@mail.com",
+      "password": "aaabbb",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "fullName": "ccc ddd",
+      "username": "ccd",
+      "email": "cc@mail.com",
+      "password": "cccddd",
+      "role": "user",
+      "id": 9
+    }
+  ],
+  "transactions": [],
+  "products": [],
+  "carts": {}
+}
